@@ -22,6 +22,14 @@ public class Main {
                 System.out.println("Сегодня пятница "+f+" число");
             }
         }
+//        Третье задание
+        int s=1822;
+        int e=2122;
+        for (int y=0;y<=2122;y=y+79){
+            if (y>=1822){
+                System.out.println("Комета появлялась или появиться "+y);
+            }
+        }
     }
 
 }
