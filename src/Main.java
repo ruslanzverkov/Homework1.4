@@ -14,5 +14,14 @@ public class Main {
             System.out.print(i);
         }
         System.out.println();
+
+//        Второе задание
+        int f=3;
+        for (;f<=31;f++){
+            if (f%7==3){
+                System.out.println("Сегодня пятница "+f+" число");
+            }
+        }
     }
+
 }
